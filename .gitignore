@@ -1,0 +1,16 @@
+# Godot
+.godot/
+*.import
+
+# Godot executables
+Godot_v*.exe
+
+# Build output
+build/
+
+# Windows null file artifact
+nul
+
+# OS
+Thumbs.db
+.DS_Store
